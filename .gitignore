@@ -1,0 +1,70 @@
+# Node.js / JavaScript
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+build/
+dist/
+out/
+
+# Python
+*.pyc
+__pycache__/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# PHP
+vendor/
+composer.lock
+.env
+
+# Ruby
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Logs and Temporary Files
+*.log
+tmp/
+temp/
+
+# Uploads and User-Generated Content
+uploads/
+media/
+
+# Database Files
+*.sqlite
+*.db
+*.sql
+
+# Testing and Coverage
+coverage/
+.nyc_output/
+
+# Miscellaneous
+*.zip
+*.tar.gz
+*.rar
+
+# Git
+.git/
+
+#Mine
+.parcel-cache
+src/js/config.js
